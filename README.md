@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mervebdurna&label=Profile%20views&color=0e75b6&style=flat" alt="mervebdurna" /> </p>
 
-- 🔭 I’m currently working on [Boston House Pricing](https://github.com/mervebdurna/boston-house-prediction)
+- 🔭 I’m currently working on [APS Sensor Fault Detection](https://github.com/mervebdurna/aps-fault-detection)
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
