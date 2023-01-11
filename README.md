@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [APS Sensor Fault Detection](https://github.com/mervebdurna/aps-fault-detection)
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **TIME SERIES**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
