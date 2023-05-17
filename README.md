@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Tesla Stock Price Forecasting Project]([https://github.com/mervebdurna/aps-fault-detection](https://github.com/mervebdurna/ineuron-ml-projects/tree/main/Time%20Series/TESLA%20Stock%20Forecasting))
 
-- 🌱 I’m currently learning **TIME SERIES**
+- 🌱 I’m currently learning ** DEEP LEARNING**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
